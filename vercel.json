@@ -1,5 +1,5 @@
 {
   "redirects": [
-    { "source": "/", "destination": "https://cesko-digital.atlassian.net/wiki", "permanent": true }
+    { "source": "/(.*)", "destination": "https://cesko-digital.atlassian.net/wiki", "permanent": true }
   ]
 }
