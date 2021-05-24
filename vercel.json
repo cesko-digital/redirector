@@ -1,5 +1,13 @@
 {
   "redirects": [
+    { "source": "/pages/(viewpage\\.action\\?pageId=1574323.*)", "destination": "https://cesko-digital.atlassian.net/l/c/RfV0BY2o", "permanent": true },
+    { "source": "/x/(swUY.*)", "destination": "https://cesko-digital.atlassian.net/l/c/RfV0BY2o", "permanent": true },
+    { "source": "/pages/(viewpage\\.action\\?pageId=1573299.*)", "destination": "https://cesko-digital.atlassian.net/l/c/gUbUw2od", "permanent": true },
+    { "source": "/x/(swEY.*)", "destination": "https://cesko-digital.atlassian.net/l/c/gUbUw2od", "permanent": true },
+    { "source": "/pages/(viewpage\\.action\\?pageId=1580262.*)", "destination": "https://cesko-digital.atlassian.net/l/c/JbmVXvCy", "permanent": true },
+    { "source": "/x/(5hwY.*)", "destination": "https://cesko-digital.atlassian.net/l/c/JbmVXvCy", "permanent": true },
+    { "source": "/pages/(viewpage\\.action\\?pageId=1574894.*)", "destination": "https://cesko-digital.atlassian.net/l/c/unoZBG20", "permanent": true },
+    { "source": "/x/(7gcY.*)", "destination": "https://cesko-digital.atlassian.net/l/c/unoZBG20", "permanent": true },
     { "source": "/pages/(viewpage\\.action\\?pageId=1587242.*)", "destination": "https://cesko-digital.atlassian.net/l/c/NJDN504Q", "permanent": true },
     { "source": "/x/(KjgY.*)", "destination": "https://cesko-digital.atlassian.net/l/c/NJDN504Q", "permanent": true },
     { "source": "/(.*)", "destination": "https://cesko-digital.atlassian.net/wiki", "permanent": true }
