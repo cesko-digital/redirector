@@ -1,6 +1,6 @@
 {
   "redirects": [
-    { "source": "/pages/(viewpage\.action\?pageId=1587242.*)", "destination": "https://cesko-digital.atlassian.net/l/c/NJDN504Q", "permanent": true },
+    { "source": "/pages/(viewpage\\.action\\?pageId=1587242.*)", "destination": "https://cesko-digital.atlassian.net/l/c/NJDN504Q", "permanent": true },
     { "source": "/x/(KjgY.*)", "destination": "https://cesko-digital.atlassian.net/l/c/NJDN504Q", "permanent": true },
     { "source": "/(.*)", "destination": "https://cesko-digital.atlassian.net/wiki", "permanent": true }
   ]
